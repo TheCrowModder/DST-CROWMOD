@@ -87,9 +87,9 @@ return {
 
         GIVE =
         {
-            GENERIC = "That doesn't go there.",
-            DEAD = "Maybe I'll just hold on to this.",
-            SLEEPING = "Too unconscious to care.",
+            GENERIC = "nope doesnt go there.",
+            DEAD = "kicked the nest.",
+            SLEEPING = "nice nest.",
             BUSY = "I'll try again in a second.",
             ABIGAILHEART = "It was worth a shot.",
             GHOSTHEART = "Perhaps this is a bad idea.",
