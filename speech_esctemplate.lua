@@ -635,39 +635,39 @@ return {
         },
         WEBBER =
         {
-            GENERIC = "Good day, %s!",
-            ATTACKER = "I'm gonna roll up a papyrus newspaper, just in case.",
-            MURDERER = "Murderer! I'll squash you, %s!",
-            REVIVER = "%s is playing well with others.",
-            GHOST = "%s is really buggin' me for a heart.",
-            FIRESTARTER = "We need to have a group meeting about fire safety.",
+            GENERIC = "webbington, %s, wusup!",
+            ATTACKER = "%s can you just go away...",
+            MURDERER = "someone get the sandal!",
+            REVIVER = "%s, you're a power to the people",
+            GHOST = "%s don't look at me!",
+            FIRESTARTER = "don't be a willow, %s."
         },
         WATHGRITHR =
         {
-            GENERIC = "Good day, %s!",
-            ATTACKER = "I'd like to avoid a punch from %s, if possible.",
-            MURDERER = "%s's gone berserk!",
-            REVIVER = "%s has full command of spirits.",
-            GHOST = "Nice try. You're not escaping to Valhalla yet, %s.",
-            FIRESTARTER = "%s is really heating things up today.",
+            GENERIC = "hey this is the author... you're code name is wathgrithr",
+            ATTACKER = "%s i respect your descicion to murder",
+            MURDERER = "go back to ginger land",
+            REVIVER = "%s, you're a power to the people",
+            GHOST = "%s don't look at me!",
+            FIRESTARTER = "don't be a willow, %s."
         },
         WINONA =
         {
-            GENERIC = "Good day to you, %s!",
-            ATTACKER = "%s is a safety hazard.",
-            MURDERER = "It ends here, %s!",
-            REVIVER = "You're pretty handy to have around, %s.",
-            GHOST = "Looks like someone threw a wrench into your plans.",
-            FIRESTARTER = "Things are burning up at the factory.",
+            GENERIC = "hey!!!!! %s you shouse winowner the best character",
+            ATTACKER = "%s a person of science has the right to kill",
+            MURDERER = "nerd!",
+            REVIVER = "%s, you're a power to the people",
+            GHOST = "%s build a revive machine or something!",
+            FIRESTARTER = "you don't even have a fire machine %s."
         },
         WORTOX =
         {
-            GENERIC = "Greetings to you, %s!",
-            ATTACKER = "I knew %s couldn't be trusted!",
-            MURDERER = "Time to grab the imp by the horns!",
-            REVIVER = "Thanks for lending a helping claw, %s.",
-            GHOST = "I reject the reality of ghosts and imps.",
-            FIRESTARTER = "%s is becoming a survival liability.",
+            GENERIC = "hello imp man",
+            ATTACKER = "souls galore eh %s?",
+            MURDERER = "souls and souls!",
+            REVIVER = "%s, you're a power to the people",
+            GHOST = "%s don't look at me!",
+            FIRESTARTER = "don't be a willow, %s."
         },
         WORMWOOD =
         {
@@ -680,66 +680,66 @@ return {
         },
         WARLY =
         {
-            GENERIC = "Greetings, %s!",
-            ATTACKER = "Well, this is a recipe for disaster.",
-            MURDERER = "I hope you don't have any half-baked plans to murder me!",
-            REVIVER = "Always rely on %s to cook up a plan.",
-            GHOST = "Maybe he was cooking with ghost peppers.",
-            FIRESTARTER = "He's gonna flambé the place right down!",
+            GENERIC = "hello perogi slave",
+            ATTACKER = "%s is silli",
+            MURDERER = "i no longer respect you",
+            REVIVER = "%s, you're a power to the people",
+            GHOST = "%s, i'm a better cook, i'm still alive!",
+            FIRESTARTER = "don't be a willow, %s."
         },
 
         WURT =
         {
-            GENERIC = "Good day, %s!",
-            ATTACKER = "%s is looking especially monstrous today...",
-            MURDERER = "You're just another murderous merm!",
-            REVIVER = "Why thank you, %s!",
-            GHOST = "%s is looking greener around the gills than usual.",
-            FIRESTARTER = "Didn't anyone teach you not to play with fire?!",
+            GENERIC = "the worse character besides willow. hi %s",
+            ATTACKER = "%s i hate you",
+            MURDERER = "go back to mermaid land",
+            REVIVER = "%s, i respect you a little more",
+            GHOST = "haha",
+            FIRESTARTER = "don't be a willow, %s."
         },
 
         MIGRATION_PORTAL =
         {
-            GENERIC = "If I had any friends, this could take me to them.",
-            OPEN = "If I step through, will I still be me?",
-            FULL = "It seems to be popular over there.",
+            GENERIC = "huh.",
+            OPEN = "maybe i shouldn't.",
+            FULL = "looks full.",
         },
         GLOMMER = 
         {
-            GENERIC = "It's cute, in a gross kind of way.",
-            SLEEPING = "Snug as a bug.",
+            GENERIC = "fun fact, he's my niece.",
+            SLEEPING = "he's the only thing keeping me going.",
         },
         GLOMMERFLOWER =
         {
-            GENERIC = "The petals shimmer in the light.",
-            DEAD = "The petals droop and shimmer in the light.",
+            GENERIC = "OHHHH HELL YEAH THIS GON GET LIT",
+            DEAD = "well, he's gone.",
         },
-        GLOMMERWINGS = "These would look empirically amazing on a helmet!",
-        GLOMMERFUEL = "This goop smells foul.",
-        BELL = "Dingalingaling.",
+        GLOMMERWINGS = "came from my best friend.",
+        GLOMMERFUEL = "smells bad but i still love him.",
+        BELL = "haha shiny",
         STATUEGLOMMER =
         {
-            GENERIC = "I'm not sure what that's supposed to be.",
-            EMPTY = "I broke it. For science.",
+            GENERIC = "if i don't have the flower i need it.",
+            EMPTY = "i will find who did this. the voices will find who did this.",
         },
 
-        LAVA_POND_ROCK = "As gneiss a place as any.",
+        LAVA_POND_ROCK = "uh",
 
-		WEBBERSKULL = "Poor little guy. He deserves a proper funeral.",
-		WORMLIGHT = "Looks delicious.",
-		WORMLIGHT_LESSER = "Kinda wrinkled.",
+		WEBBERSKULL = "hmm.",
+		WORMLIGHT = "cool.",
+		WORMLIGHT_LESSER = "looks like my grandpa",
 		WORM =
 		{
-		    PLANT = "Seems safe to me.",
-		    DIRT = "Just looks like a pile of dirt.",
-		    WORM = "It's a worm!",
+		    PLANT = "looks nice.",
+		    DIRT = "dirty dirt",
+		    WORM = "food ahead.",
 		},
-        WORMLIGHT_PLANT = "Seems safe to me.",
+        WORMLIGHT_PLANT = "looks safe!",
 		MOLE =
 		{
-			HELD = "Nowhere left to dig, my friend.",
-			UNDERGROUND = "Something's under there, searching for minerals.",
-			ABOVEGROUND = "I'd sure like to whack that mole... thing.",
+			HELD = "nowhere left to go.",
+			UNDERGROUND = "moles holes on a roll",
+			ABOVEGROUND = "i don't like these things but i tolerate them.",
 		},
 		MOLEHILL = "What a nice, homey hole in the ground!",
 		MOLEHAT = "A wretched stench, but excellent visibility.",
